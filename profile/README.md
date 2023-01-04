@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="300" height="157" src="https://i.imgur.com/Ok5sz8y.png">
-  <img width="150" height="150" src="https://i.imgur.com/p2tPvtt.png">
+  <img width="600" height="300" src="https://cdn.discordapp.com/attachments/966266443287117855/1060121448225701960/Thumbnail.png">
 </p>
 
 ## 👋 About
